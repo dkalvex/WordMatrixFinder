@@ -22,7 +22,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchitectureCQRS.Domain\CQRSProject.Shared.csproj" />
-    <ProjectReference Include="..\CleanArchitectureCQRS.Application\CQRSProject.Application.csproj" />
+    <ProjectReference Include="..\CQRSProject.Application\CQRSProject.Application.csproj" />
+    <ProjectReference Include="..\CQRSProject.Shared\CQRSProject.Shared.csproj" />
   </ItemGroup>
 </Project>

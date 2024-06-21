@@ -1,2 +1,0 @@
-//// ********************------ Migration Command   ------ ********************
-//dotnet ef migrations add Init_Read --context ReadDbContext --startup-project ../CleanArchitectureCQRS.API/  -o EF/Migrations
